@@ -55,7 +55,7 @@ describe ('Validando o Login', () =>{
                 .post('/login')
                 //Passando os parâmetros
                 .send({
-                    username: "Lucas",
+                    username: "Marta",
                     password: "***"
                 });
 
